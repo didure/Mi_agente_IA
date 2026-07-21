@@ -31,8 +31,11 @@ Sigue estos pasos para probar el proyecto en tu máquina:
 *   **Pregunta:** "¿Qué lenguajes de programación se usan en el back-end de la empresa?"
     *   **Respuesta:** "De acuerdo con la documentación adjunta, el back-end está construido utilizando Python con el framework FastAPI."
 
-## ☁️ Despliegue en la Nube (Deploy en OCI)
-Este agente ha sido desplegado exitosamente utilizando Oracle Cloud Infrastructure (OCI Compute).
-*   **Enlace de la aplicación en vivo:** [Coloca aquí tu enlace IP, ej: http://123.45.67.89:8501]
-*   **Captura de pantalla:** 
-    *(Reemplaza esta línea con una imagen de la app corriendo en la nube)*
+## Respuestas del agente ante una pregunta que no tiene que ver con su función:
+<img width="1408" height="615" alt="image" src="https://github.com/user-attachments/assets/b508c31e-c596-4f45-b4dc-b4124a60581d" />
+
+## Respuestas del agente ante una pregunta que si se encuentra en la política.
+<img width="1411" height="762" alt="image" src="https://github.com/user-attachments/assets/77d1b9b0-961f-4a9d-9932-c4f0fab5194c" />
+
+
+
